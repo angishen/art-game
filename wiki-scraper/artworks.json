@@ -1,0 +1,4760 @@
+[
+   {
+      "img_id":"img0001",
+      "title":"Self-portrait",
+      "artist":"Albrecht Durer",
+      "level":"med"
+   },
+   {
+      "img_id":"img0004",
+      "title":"Portrait of the artist holding a thistle.",
+      "artist":"Albrecht Durer",
+      "level":"med"
+   },
+   {
+      "img_id":"img0006",
+      "title":"Portrait of Oswolt Krel",
+      "artist":"Albrecht Durer",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0007",
+      "title":"Twelve-year-old Jesus among the Scribes",
+      "artist":"Albrecht Durer",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0009",
+      "title":"Adam and Eve",
+      "artist":"Albrecht Durer",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0010",
+      "title":"Portrait of Emperor Maximilian I",
+      "artist":"Albrecht Durer",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0011",
+      "title":"Salvator Mundi",
+      "artist":"Albrecht Durer",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0012",
+      "title":"All saints (\"Landauer Altar\")",
+      "artist":"Albrecht Durer",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0013",
+      "title":"Feast of Rose Garlands",
+      "artist":"Albrecht Durer",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0014",
+      "title":"The Adoration of the Magi",
+      "artist":"Albrecht Durer",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0015",
+      "title":"Saint Jerome",
+      "artist":"Albrecht Durer",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0016",
+      "title":"Dürers father, Albrecht Dürer the Elder",
+      "artist":"Albrecht Durer",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0017",
+      "title":"Self-portrait",
+      "artist":"Albrecht Durer",
+      "level":"med"
+   },
+   {
+      "img_id":"img0018",
+      "title":"Portrait of a Young Venetian Woman",
+      "artist":"Albrecht Durer",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0019",
+      "title":"Madonna and Child (Haller Madonna)",
+      "artist":"Albrecht Durer",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0020",
+      "title":"Virgin and child with a pear",
+      "artist":"Albrecht Durer",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0021",
+      "title":"Bernhard von Reesen / Portrait of a young Man",
+      "artist":"Albrecht Durer",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0022",
+      "title":"The Four Apostles",
+      "artist":"Albrecht Durer",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0023",
+      "title":"Portrait of Hieronymus Holzschuher",
+      "artist":"Albrecht Durer",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0025",
+      "title":"Hare, 1502",
+      "artist":"Albrecht Durer",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0026",
+      "title":"German: Das große Rasenstück",
+      "artist":"Albrecht Durer",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0033",
+      "title":"Spring",
+      "artist":"Alphonse Mucha",
+      "level":"easy"
+   },
+   {
+      "img_id":"img0034",
+      "title":"Summer",
+      "artist":"Alphonse Mucha",
+      "level":"easy"
+   },
+   {
+      "img_id":"img0035",
+      "title":"Autumn",
+      "artist":"Alphonse Mucha",
+      "level":"easy"
+   },
+   {
+      "img_id":"img0036",
+      "title":"Winter",
+      "artist":"Alphonse Mucha",
+      "level":"easy"
+   },
+   {
+      "img_id":"img0037",
+      "title":"Painting, part of the series The Arts",
+      "artist":"Alphonse Mucha",
+      "level":"easy"
+   },
+   {
+      "img_id":"img0038",
+      "title":"Maude Adams (1872–1953) as Joan of Arc",
+      "artist":"Alphonse Mucha",
+      "level":"easy"
+   },
+   {
+      "img_id":"img0039",
+      "title":"Study for 'The Slav Epic' cycle No.1: The Slavs in Their Original Homeland (1912)",
+      "artist":"Alphonse Mucha",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0040",
+      "title":"Self-Portrait as the Allegory of Painting",
+      "artist":"Artemisia Gentileschi",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0041",
+      "title":"Judith and her Maidservant",
+      "artist":"Artemisia Gentileschi",
+      "level":"med"
+   },
+   {
+      "img_id":"img0042",
+      "title":"Susanna and the Elders",
+      "artist":"Artemisia Gentileschi",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0043",
+      "title":"Salome with the Head of Saint John the Baptist",
+      "artist":"Artemisia Gentileschi",
+      "level":"med"
+   },
+   {
+      "img_id":"img0044",
+      "title":"Judith Slaying Holofernes",
+      "artist":"Artemisia Gentileschi",
+      "level":"med"
+   },
+   {
+      "img_id":"img0045",
+      "title":"Cleopatra",
+      "artist":"Artemisia Gentileschi",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0046",
+      "title":"Judith and her Maidservant",
+      "artist":"Artemisia Gentileschi",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0047",
+      "title":"Esther before Ahasuerus",
+      "artist":"Artemisia Gentileschi",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0048",
+      "title":"Lucretia",
+      "artist":"Artemisia Gentileschi",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0049",
+      "title":"Conversion of the Magdalene (The Penitent Mary Magdalene)",
+      "artist":"Artemisia Gentileschi",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0050",
+      "title":"The Virgin nursing the Child",
+      "artist":"Artemisia Gentileschi",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0051",
+      "title":"The Annunciation",
+      "artist":"Artemisia Gentileschi",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0052",
+      "title":"Bathsheba Bathing",
+      "artist":"Artemisia Gentileschi",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0053",
+      "title":"Clio, Muse of History (The Fame)",
+      "artist":"Artemisia Gentileschi",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0054",
+      "title":"Bathsheba",
+      "artist":"Artemisia Gentileschi",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0055",
+      "title":"St Cecilia Playing a Lute",
+      "artist":"Artemisia Gentileschi",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0056",
+      "title":"Samson and Delilah",
+      "artist":"Artemisia Gentileschi",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0057",
+      "title":"Mother and Child",
+      "artist":"Artemisia Gentileschi",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0058",
+      "title":"Lot and his Daughters",
+      "artist":"Artemisia Gentileschi",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0059",
+      "title":"The Allegory of Fame",
+      "artist":"Artemisia Gentileschi",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0061",
+      "title":"Basket of Fruit",
+      "artist":"Caravaggio",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0062",
+      "title":"Francis of Assisi in Ecstasy",
+      "artist":"Caravaggio",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0063",
+      "title":"The Seven Works of Mercy",
+      "artist":"Caravaggio",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0064",
+      "title":"Fillede Melandroni",
+      "artist":"Caravaggio",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0065",
+      "title":"Sacred and Profane Love",
+      "artist":"Caravaggio",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0066",
+      "title":"Supper at Emmaus",
+      "artist":"Caravaggio",
+      "level":"med"
+   },
+   {
+      "img_id":"img0067",
+      "title":"The Crucifixion of Saint Peter",
+      "artist":"Caravaggio",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0068",
+      "title":"The Entombment of Christ",
+      "artist":"Caravaggio",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0069",
+      "title":"Portrait of Caspar David Friedrich",
+      "artist":"Caspar David Friedrich",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0072",
+      "title":"Rocky ravine in the Elbe Sandstone Mountains",
+      "artist":"Caspar David Friedrich",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0073",
+      "title":"Chalk Cliffs on Rügen",
+      "artist":"Caspar David Friedrich",
+      "level":"med"
+   },
+   {
+      "img_id":"img0074",
+      "title":"Caspar David Friedrich in his Studio",
+      "artist":"Caspar David Friedrich",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0075",
+      "title":"Abbey among Oak Trees",
+      "artist":"Caspar David Friedrich",
+      "level":"med"
+   },
+   {
+      "img_id":"img0076",
+      "title":"Man and Woman contemplating the moon",
+      "artist":"Caspar David Friedrich",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0077",
+      "title":"Portrait of Caspar David Friedrich",
+      "artist":"Caspar David Friedrich",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0078",
+      "title":"In the Wild North",
+      "artist":"Caspar David Friedrich",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0079",
+      "title":"German: Grabmale alter Helden (Gräber gefallenere Freiheitskrieger, Grab des Arminius)\nTombs of the Fallen in the Fight for Independence (Tombs of Ancient Heroes)",
+      "artist":"Caspar David Friedrich",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0080",
+      "title":"The Cross Beside The Baltic",
+      "artist":"Caspar David Friedrich",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0081",
+      "title":"Moonrise over the Sea",
+      "artist":"Caspar David Friedrich",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0082",
+      "title":"Graveyard under Snow",
+      "artist":"Caspar David Friedrich",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0083",
+      "title":"The Oaktree in the Snow",
+      "artist":"Caspar David Friedrich",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0084",
+      "title":"German:The life stages (beach picture, beach scene in Wiek)",
+      "artist":"Caspar David Friedrich",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0085",
+      "title":"Memories of the Giant Mountains",
+      "artist":"Caspar David Friedrich",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0086",
+      "title":"Sea Shore in Moonlight",
+      "artist":"Caspar David Friedrich",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0087",
+      "title":"Déjeuner sur l'herbe",
+      "artist":"Claude Monet",
+      "level":"easy"
+   },
+   {
+      "img_id":"img0088",
+      "title":"Impression Sunrise",
+      "artist":"Claude Monet",
+      "level":"easy"
+   },
+   {
+      "img_id":"img0089",
+      "title":"French: La Japonaise, Madame Monet en costume japonais",
+      "artist":"Claude Monet",
+      "level":"med"
+   },
+   {
+      "img_id":"img0090",
+      "title":"German: Frauen im Garten",
+      "artist":"Claude Monet",
+      "level":"easy"
+   },
+   {
+      "img_id":"img0091",
+      "title":"French: Terrasse à Sainte-Adresse",
+      "artist":"Claude Monet",
+      "level":"med"
+   },
+   {
+      "img_id":"img0092",
+      "title":"The Magpie",
+      "artist":"Claude Monet",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0093",
+      "title":"Springtime",
+      "artist":"Claude Monet",
+      "level":"med"
+   },
+   {
+      "img_id":"img0094",
+      "title":"Camille Monet on her deathbed",
+      "artist":"Claude Monet",
+      "level":"med"
+   },
+   {
+      "img_id":"img0095",
+      "title":"Camille Monet on a Garden Bench",
+      "artist":"Claude Monet",
+      "level":"med"
+   },
+   {
+      "img_id":"img0096",
+      "title":"Le Bateau-atelier",
+      "artist":"Claude Monet",
+      "level":"med"
+   },
+   {
+      "img_id":"img0097",
+      "title":"Woman with a Parasol - Madame Monet and Her Son",
+      "artist":"Claude Monet",
+      "level":"easy"
+   },
+   {
+      "img_id":"img0098",
+      "title":"Flowered Riverbank, Argenteuil",
+      "artist":"Claude Monet",
+      "level":"med"
+   },
+   {
+      "img_id":"img0099",
+      "title":"Arrival of the Normandy Train, Gare Saint-Lazare",
+      "artist":"Claude Monet",
+      "level":"easy"
+   },
+   {
+      "img_id":"img0100",
+      "title":"Water Lilies and Japanese Bridge",
+      "artist":"Claude Monet",
+      "level":"easy"
+   },
+   {
+      "img_id":"img0102",
+      "title":"Weeping Willow",
+      "artist":"Claude Monet",
+      "level":"med"
+   },
+   {
+      "img_id":"img0103",
+      "title":"La Gare Saint-Lazare",
+      "artist":"Claude Monet",
+      "level":"easy"
+   },
+   {
+      "img_id":"img0104",
+      "title":"Arrival of the Normandy Train, Gare Saint-Lazare",
+      "artist":"Claude Monet",
+      "level":"easy"
+   },
+   {
+      "img_id":"img0105",
+      "title":"The Cliffs at Etretat",
+      "artist":"Claude Monet",
+      "level":"med"
+   },
+   {
+      "img_id":"img0106",
+      "title":"Grainstacks in the Sunlight, Morning Effect",
+      "artist":"Claude Monet",
+      "level":"med"
+   },
+   {
+      "img_id":"img0108",
+      "title":"London, Houses of Parliament. The Sun Shining through the Fog",
+      "artist":"Claude Monet",
+      "level":"easy"
+   },
+   {
+      "img_id":"img0109",
+      "title":"The Grand Canal",
+      "artist":"Claude Monet",
+      "level":"med"
+   },
+   {
+      "img_id":"img0116",
+      "title":"Dante Gabriel Rossetti",
+      "artist":"Dante Gabriel Rosetti",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0118",
+      "title":"The Girlhood of Mary Virgin",
+      "artist":"Dante Gabriel Rosetti",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0119",
+      "title":"Bocca Baciata",
+      "artist":"Dante Gabriel Rosetti",
+      "level":"med"
+   },
+   {
+      "img_id":"img0120",
+      "title":"Dante Gabriel Rossetti; Theodore Watts-Dunton",
+      "artist":"Dante Gabriel Rosetti",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0121",
+      "title":"The Day Dream",
+      "artist":"Dante Gabriel Rosetti",
+      "level":"med"
+   },
+   {
+      "img_id":"img0123",
+      "title":"The Tune of the Seven Towers",
+      "artist":"Dante Gabriel Rosetti",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0124",
+      "title":"Found",
+      "artist":"Dante Gabriel Rosetti",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0125",
+      "title":"The Blessed Damozel",
+      "artist":"Dante Gabriel Rosetti",
+      "level":"med"
+   },
+   {
+      "img_id":"img0126",
+      "title":"Lady Lilith",
+      "artist":"Dante Gabriel Rosetti",
+      "level":"med"
+   },
+   {
+      "img_id":"img0128",
+      "title":"Beata Beatrix",
+      "artist":"Dante Gabriel Rosetti",
+      "level":"med"
+   },
+   {
+      "img_id":"img0129",
+      "title":"Jane Morris (The Blue Silk Dress)",
+      "artist":"Dante Gabriel Rosetti",
+      "level":"med"
+   },
+   {
+      "img_id":"img0130",
+      "title":"A Vision of Fiammetta",
+      "artist":"Dante Gabriel Rosetti",
+      "level":"med"
+   },
+   {
+      "img_id":"img0137",
+      "title":"Philip IV in Brown and Silver",
+      "artist":"Diego Velázquez",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0138",
+      "title":"The Triumph of Bacchus",
+      "artist":"Diego Velázquez",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0139",
+      "title":"The Surrender of Breda, or „The Lances“",
+      "artist":"Diego Velázquez",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0140",
+      "title":"Portrait of a Lady",
+      "artist":"Diego Velázquez",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0141",
+      "title":"Portrait of Pablo de Valladolid",
+      "artist":"Diego Velázquez",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0142",
+      "title":"Portrait of Innocent X",
+      "artist":"Diego Velázquez",
+      "level":"med"
+   },
+   {
+      "img_id":"img0143",
+      "title":"Portrait of Juan Pareja",
+      "artist":"Diego Velázquez",
+      "level":"med"
+   },
+   {
+      "img_id":"img0144",
+      "title":"Spanish: Las Meninas",
+      "artist":"Diego Velázquez",
+      "level":"med"
+   },
+   {
+      "img_id":"img0145",
+      "title":"Infanta Margarita Teresa in a Blue Dress",
+      "artist":"Diego Velázquez",
+      "level":"med"
+   },
+   {
+      "img_id":"img0146",
+      "title":"A Cotton Office in New Orleans",
+      "artist":"Edgar Degas",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0147",
+      "title":"The Ballet Class",
+      "artist":"Edgar Degas",
+      "level":"easy"
+   },
+   {
+      "img_id":"img0148",
+      "title":"Place de la Concorde",
+      "artist":"Edgar Degas",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0149",
+      "title":"Le champ de courses. Jockeys amateurs près d'une voiture",
+      "artist":"Edgar Degas",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0150",
+      "title":"Miss La La at the Cirque Fernando",
+      "artist":"Edgar Degas",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0151",
+      "title":"Male Nude",
+      "artist":"Edgar Degas",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0152",
+      "title":"Achille De Gas in the Uniform of a Cadet",
+      "artist":"Edgar Degas",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0153",
+      "title":"Young Spartans exercising",
+      "artist":"Edgar Degas",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0154",
+      "title":"A Woman Seated beside a Vase of Flowers",
+      "artist":"Edgar Degas",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0155",
+      "title":"The Collector of Prints",
+      "artist":"Edgar Degas",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0156",
+      "title":"French: Classe de danse",
+      "artist":"Edgar Degas",
+      "level":"easy"
+   },
+   {
+      "img_id":"img0157",
+      "title":"Ballet Rehearsal on Stage",
+      "artist":"Edgar Degas",
+      "level":"easy"
+   },
+   {
+      "img_id":"img0158",
+      "title":"Mary Cassatt",
+      "artist":"Edgar Degas",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0160",
+      "title":"Dancer Taking a Bow (The Star)",
+      "artist":"Edgar Degas",
+      "level":"easy"
+   },
+   {
+      "img_id":"img0161",
+      "title":"The Rehearsal Onstage",
+      "artist":"Edgar Degas",
+      "level":"easy"
+   },
+   {
+      "img_id":"img0162",
+      "title":"Waiting",
+      "artist":"Edgar Degas",
+      "level":"med"
+   },
+   {
+      "img_id":"img0163",
+      "title":"Before the Race",
+      "artist":"Edgar Degas",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0164",
+      "title":"German: Tänzerinnen an der Stange",
+      "artist":"Edgar Degas",
+      "level":"med"
+   },
+   {
+      "img_id":"img0165",
+      "title":"La Petite Danseuse de Quatorze Ans",
+      "artist":"Edgar Degas",
+      "level":"med"
+   },
+   {
+      "img_id":"img0167",
+      "title":"Portrait d'Edouard Manet",
+      "artist":"Edouard Manet",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0168",
+      "title":"Luncheon on the Grass",
+      "artist":"Edouard Manet",
+      "level":"easy"
+   },
+   {
+      "img_id":"img0169",
+      "title":"Berthe Morisot With a Bouquet of Violets",
+      "artist":"Edouard Manet",
+      "level":"med"
+   },
+   {
+      "img_id":"img0170",
+      "title":"Self-portrait with palette",
+      "artist":"Edouard Manet",
+      "level":"med"
+   },
+   {
+      "img_id":"img0171",
+      "title":"At the Café",
+      "artist":"Edouard Manet",
+      "level":"med"
+   },
+   {
+      "img_id":"img0172",
+      "title":"German: Rennen in Longchamp",
+      "artist":"Edouard Manet",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0173",
+      "title":"Execution of the Emperor Maximilian",
+      "artist":"Edouard Manet",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0175",
+      "title":"The Absinthe Drinker",
+      "artist":"Edouard Manet",
+      "level":"med"
+   },
+   {
+      "img_id":"img0176",
+      "title":"The Spanish Singer",
+      "artist":"Edouard Manet",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0177",
+      "title":"Boy with a Sword",
+      "artist":"Edouard Manet",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0178",
+      "title":"La Nymphe surprise",
+      "artist":"Edouard Manet",
+      "level":"med"
+   },
+   {
+      "img_id":"img0179",
+      "title":"The Old Musician",
+      "artist":"Edouard Manet",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0180",
+      "title":"The Battle of the Kearsarge and the Alabama",
+      "artist":"Edouard Manet",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0181",
+      "title":"The Dead Bullfighter",
+      "artist":"Edouard Manet",
+      "level":"med"
+   },
+   {
+      "img_id":"img0182",
+      "title":"A Philosopher (Beggar with Oysters)",
+      "artist":"Edouard Manet",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0183",
+      "title":"The Ragpicker",
+      "artist":"Edouard Manet",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0184",
+      "title":"French: La lecture",
+      "artist":"Edouard Manet",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0185",
+      "title":"Young Lady in 1866",
+      "artist":"Edouard Manet",
+      "level":"med"
+   },
+   {
+      "img_id":"img0186",
+      "title":"Portrait of Madame Brunet",
+      "artist":"Edouard Manet",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0188",
+      "title":"Portrait of Émile Zola",
+      "artist":"Edouard Manet",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0189",
+      "title":"Luncheon in the Studio",
+      "artist":"Edouard Manet",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0190",
+      "title":"French: Le balcon\nThe Balcony",
+      "artist":"Edouard Manet",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0191",
+      "title":"Gypsy with a Cigarette",
+      "artist":"Edouard Manet",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0192",
+      "title":"The grand canal of Venice (Blue Venice)",
+      "artist":"Edouard Manet",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0193",
+      "title":"Full-face Portrait of Manet's Wife",
+      "artist":"Edouard Manet",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0194",
+      "title":"Portrait of Stéphane Mallarmé (1842-1898)",
+      "artist":"Edouard Manet",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0195",
+      "title":"Nana",
+      "artist":"Edouard Manet",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0196",
+      "title":"In the Conservatory",
+      "artist":"Edouard Manet",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0198",
+      "title":"French: Maison à Rueil\nHouse in Rueil",
+      "artist":"Edouard Manet",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0199",
+      "title":"German: Gartenweg in Rueil",
+      "artist":"Edouard Manet",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0200",
+      "title":"Flowers in a Crystal Vase",
+      "artist":"Edouard Manet",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0201",
+      "title":"White Lilac",
+      "artist":"Edouard Manet",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0202",
+      "title":"Olympia",
+      "artist":"Edouard Manet",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0205",
+      "title":"Portrait of August Strindberg",
+      "artist":"Edvard Munch",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0206",
+      "title":"Portrait of Friedrich Nietzsche",
+      "artist":"Edvard Munch",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0207",
+      "title":"Puberty",
+      "artist":"Edvard Munch",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0208",
+      "title":"Self-portrait",
+      "artist":"Edward Hopper",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0209",
+      "title":"Summer Interior",
+      "artist":"Edward Hopper",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0210",
+      "title":"Road in Maine",
+      "artist":"Edward Hopper",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0211",
+      "title":"Girl at a Sewing Machine",
+      "artist":"Edward Hopper",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0212",
+      "title":"Nighthawks",
+      "artist":"Edward Hopper",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0213",
+      "title":"House by the Railroad",
+      "artist":"Edward Hopper",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0216",
+      "title":"Portrait of a Man",
+      "artist":"El Greco",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0217",
+      "title":"Dormition of the Virgin",
+      "artist":"El Greco",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0218",
+      "title":"The Adoration of the Magi",
+      "artist":"El Greco",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0219",
+      "title":"The Adoration of the Magi",
+      "artist":"El Greco",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0221",
+      "title":"Assumption of the Virgin",
+      "artist":"El Greco",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0222",
+      "title":"El Expolio",
+      "artist":"El Greco",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0223",
+      "title":"View of Toledo",
+      "artist":"El Greco",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0225",
+      "title":"The Holy Tninity",
+      "artist":"El Greco",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0226",
+      "title":"The Vision of Saint John, or The Opening of the Fifth Seal",
+      "artist":"El Greco",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0227",
+      "title":"Portrait of the Artist's Son Jorge Manuel Theotokopoulos",
+      "artist":"El Greco",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0228",
+      "title":"Self Portrait in a Straw Hat",
+      "artist":"Élisabeth Vigée Le Brun",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0229",
+      "title":"French: Madame Vigée-Le Brun et sa fille\nSelf-portrait with Her Daughter, Julie",
+      "artist":"Élisabeth Vigée Le Brun",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0230",
+      "title":"Madame Perregaux",
+      "artist":"Élisabeth Vigée Le Brun",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0231",
+      "title":"Marie Antoinette and her Children",
+      "artist":"Élisabeth Vigée Le Brun",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0232",
+      "title":"Peace bringing back Prosperity",
+      "artist":"Élisabeth Vigée Le Brun",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0233",
+      "title":"Portrait of Madame de Staël as Corinne on Cape Misenum",
+      "artist":"Élisabeth Vigée Le Brun",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0234",
+      "title":"French: Marie-Antoinette à la Rose\nMarie-Antoinette with the Rose",
+      "artist":"Élisabeth Vigée Le Brun",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0235",
+      "title":"Madame Grand (Noël Catherine Vorlée, 1761–1835)",
+      "artist":"Élisabeth Vigée Le Brun",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0236",
+      "title":"Portrait of Marie Gabrielle de Gramont, Duchesse de Caderousse",
+      "artist":"Élisabeth Vigée Le Brun",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0237",
+      "title":"Portrait of Charles-Alexandre de Calonne (1734-1802)",
+      "artist":"Élisabeth Vigée Le Brun",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0238",
+      "title":"French: Portrait de la baronne de Crussol",
+      "artist":"Élisabeth Vigée Le Brun",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0239",
+      "title":"Comtesse de la Châtre (Marie Charlotte Louise Perrette Aglaé Bontemps, 1762–1848)",
+      "artist":"Élisabeth Vigée Le Brun",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0240",
+      "title":"Elisabeth Louise Vigée-Lebrun, Madame Vigée-Lebrun et sa fille",
+      "artist":"Élisabeth Vigée Le Brun",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0241",
+      "title":"Francesco I di Borbone",
+      "artist":"Élisabeth Vigée Le Brun",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0242",
+      "title":"Portrait of Anna Pitt as Hebe",
+      "artist":"Élisabeth Vigée Le Brun",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0243",
+      "title":"Portrait of Emma, Lady Hamilton as a Bacchante",
+      "artist":"Élisabeth Vigée Le Brun",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0244",
+      "title":"Portrait of Countess Maria Theresia Bucquoi, née Parr (1746-1818)",
+      "artist":"Élisabeth Vigée Le Brun",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0245",
+      "title":"Portrait of Theresa, Countess Kinsky",
+      "artist":"Élisabeth Vigée Le Brun",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0246",
+      "title":"Portrait of Princess Galitzin (1763-1842)",
+      "artist":"Élisabeth Vigée Le Brun",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0247",
+      "title":"Portrait of Princess Belozersky",
+      "artist":"Élisabeth Vigée Le Brun",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0248",
+      "title":"The Massacre at Chios",
+      "artist":"Eugene Delacroix",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0249",
+      "title":"French: La mort de Sardanapale\nDeath of Sardanapalus",
+      "artist":"Eugene Delacroix",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0250",
+      "title":"Horse Frightened by Lightning",
+      "artist":"Eugene Delacroix",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0251",
+      "title":"Liberty Leading the People",
+      "artist":"Eugene Delacroix",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0252",
+      "title":"French: Christ sur ​​la mer de Galilée\nChrist on the Sea of Galilee",
+      "artist":"Eugene Delacroix",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0253",
+      "title":"The Fanatics of Tangier",
+      "artist":"Eugene Delacroix",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0254",
+      "title":"Mademoiselle Rose",
+      "artist":"Eugene Delacroix",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0255",
+      "title":"The Duke of Orléans showing his Lover",
+      "artist":"Eugene Delacroix",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0256",
+      "title":"French: Combat du Giaour et Hassan\nThe Combat of the Giaour and Hassan",
+      "artist":"Eugene Delacroix",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0257",
+      "title":"French: La Femme au perroquet\nWoman with a Parrot",
+      "artist":"Eugene Delacroix",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0258",
+      "title":"Woman With White Socks",
+      "artist":"Eugene Delacroix",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0259",
+      "title":"A Young Tiger Playing with its Mother",
+      "artist":"Eugene Delacroix",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0260",
+      "title":"French: Les Femmes d'Alger dans leur appartement\nThe Women of Algiers in Their Apartment",
+      "artist":"Eugene Delacroix",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0261",
+      "title":"The Natchez",
+      "artist":"Eugene Delacroix",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0264",
+      "title":"French: Noce juive au Maroc\nJewish Wedding in Morocco",
+      "artist":"Eugene Delacroix",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0265",
+      "title":"French: Christ sur ​​la mer de Galilée\nChrist on the Sea of Galilee",
+      "artist":"Eugene Delacroix",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0266",
+      "title":"Collision of Moorish Horsemen",
+      "artist":"Eugene Delacroix",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0267",
+      "title":"Last Words of the Emperor Marcus Aurelius",
+      "artist":"Eugene Delacroix",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0268",
+      "title":"Desdemona Cursed by her Father",
+      "artist":"Eugene Delacroix",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0269",
+      "title":"French: Marocain sellant son cheval\nArab saddling his horse",
+      "artist":"Eugene Delacroix",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0270",
+      "title":"Rider Attacked by a Jaguar",
+      "artist":"Eugene Delacroix",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0271",
+      "title":"French: Chevaux sortant de la mer\nHorses coming out of the sea",
+      "artist":"Eugene Delacroix",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0272",
+      "title":"Shipwreck on the Coast",
+      "artist":"Eugene Delacroix",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0273",
+      "title":"French: Ovide chez les Scythes\nOvid among the Scythians",
+      "artist":"Eugene Delacroix",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0275",
+      "title":"Spanish: El pintor Francisco de Goya\nPortrait of Francisco de Goya",
+      "artist":"Francisco Goya",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0276",
+      "title":"Courtyard with Lunatics or Yard with Madmen",
+      "artist":"Francisco Goya",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0277",
+      "title":"Q15918344",
+      "artist":"Francisco Goya",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0278",
+      "title":"The Parasol",
+      "artist":"Francisco Goya",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0280",
+      "title":"La familia de Carlos IV",
+      "artist":"Francisco Goya",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0281",
+      "title":"Spanish: La familia del infante don Luis de Borbón\nThe Family of the Infante Don Luis",
+      "artist":"Francisco Goya",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0282",
+      "title":"Spanish: La maja desnuda\nThe Nude Maja",
+      "artist":"Francisco Goya",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0284",
+      "title":"Spanish:  El Tres de Mayo.",
+      "artist":"Francisco Goya",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0285",
+      "title":"The Second of May 1808 or The Charge of the Mamelukes",
+      "artist":"Francisco Goya",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0286",
+      "title":"Witches' Sabbath (The Great He-Goat)",
+      "artist":"Francisco Goya",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0287",
+      "title":"Self-portrait",
+      "artist":"Francisco Goya",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0288",
+      "title":"Portrait of François Boucher (1703-1770)",
+      "artist":"François Boucher",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0289",
+      "title":"Portrait of Marie-Jeanne Buzeau (1716-1796)",
+      "artist":"François Boucher",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0290",
+      "title":"Resting Maiden.",
+      "artist":"François Boucher",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0291",
+      "title":"French: La Nymphe Callisto, séduite par Jupiter sous les traits de Diane\nJupiter in the Guise of Diana, and the Nymph Callisto",
+      "artist":"François Boucher",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0293",
+      "title":"Le Peintre dans son atelier",
+      "artist":"François Boucher",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0294",
+      "title":"Rinaldo and Armida.",
+      "artist":"François Boucher",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0295",
+      "title":"French: Diane sortant du bain\nDiana Leaving her Bath - Diana Resting after her Bath",
+      "artist":"François Boucher",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0296",
+      "title":"French: Vénus consolant l'Amour\nThe Bath of Venus (Venus Consoling Love)",
+      "artist":"François Boucher",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0297",
+      "title":"French: La Toilette de Vénus\nThe Toilet of Venus",
+      "artist":"François Boucher",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0298",
+      "title":"Portrait of Madame de Pompadour (1721-1764)",
+      "artist":"François Boucher",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0299",
+      "title":"Dreaming Shepherdess",
+      "artist":"François Boucher",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0301",
+      "title":"Le Dejeuner",
+      "artist":"François Boucher",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0302",
+      "title":"Le Chahut",
+      "artist":"Georges Seurat",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0304",
+      "title":"The Anglers, Study for la Grande Jatte",
+      "artist":"Georges Seurat",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0305",
+      "title":"French: Une baignade à Asnières\nBathers in Asnières",
+      "artist":"Georges Seurat",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0306",
+      "title":"View of Fort Samson",
+      "artist":"Georges Seurat",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0307",
+      "title":"Parade de cirque (Circus Sideshow)",
+      "artist":"Georges Seurat",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0308",
+      "title":"French: Les Poseuses",
+      "artist":"Georges Seurat",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0309",
+      "title":"Gray weather, Grande Jatte",
+      "artist":"Georges Seurat",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0310",
+      "title":"La Tour Eiffel",
+      "artist":"Georges Seurat",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0311",
+      "title":"Drawing XIII",
+      "artist":"Georgia O'Keeffe",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0312",
+      "title":"Blue and Green Music",
+      "artist":"Georgia O'Keeffe",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0314",
+      "title":"Crucifix",
+      "artist":"Giotto",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0315",
+      "title":"No. 6 Scenes from the Life of Joachim: 6. Meeting at the Golden Gate (detail)",
+      "artist":"Giotto",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0316",
+      "title":"Ognissanti Madonna",
+      "artist":"Giotto",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0317",
+      "title":"Spanish: El pintor Francisco de Goya\nPortrait of Francisco de Goya",
+      "artist":"Goya",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0318",
+      "title":"Courtyard with Lunatics or Yard with Madmen",
+      "artist":"Goya",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0319",
+      "title":"Q15918344",
+      "artist":"Goya",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0320",
+      "title":"The Parasol",
+      "artist":"Goya",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0322",
+      "title":"La familia de Carlos IV",
+      "artist":"Goya",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0323",
+      "title":"Spanish: La familia del infante don Luis de Borbón\nThe Family of the Infante Don Luis",
+      "artist":"Goya",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0324",
+      "title":"Spanish: La maja desnuda\nThe Nude Maja",
+      "artist":"Goya",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0326",
+      "title":"Spanish:  El Tres de Mayo.",
+      "artist":"Goya",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0327",
+      "title":"The Second of May 1808 or The Charge of the Mamelukes",
+      "artist":"Goya",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0328",
+      "title":"Witches' Sabbath (The Great He-Goat)",
+      "artist":"Goya",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0329",
+      "title":"Self-portrait",
+      "artist":"Goya",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0330",
+      "title":"American Gothic",
+      "artist":"Grant Wood",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0331",
+      "title":"The Kiss (Der Kuß)",
+      "artist":"Gustav Klimt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0332",
+      "title":"German: ",
+      "artist":"Gustav Klimt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0334",
+      "title":"Judith I",
+      "artist":"Gustav Klimt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0335",
+      "title":"Portrait of Hermine Gallia",
+      "artist":"Gustav Klimt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0336",
+      "title":"German: Die drei Lebensalter der Frau",
+      "artist":"Gustav Klimt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0337",
+      "title":"Portrait of Fritza Riedler",
+      "artist":"Gustav Klimt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0338",
+      "title":"Danae",
+      "artist":"Gustav Klimt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0339",
+      "title":"Hope, II",
+      "artist":"Gustav Klimt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0340",
+      "title":"Mäda Primavesi",
+      "artist":"Gustav Klimt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0341",
+      "title":"Portrait of Eugenia Primaesi",
+      "artist":"Gustav Klimt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0342",
+      "title":"Avenue in the Park of Schloss Kammer",
+      "artist":"Gustav Klimt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0343",
+      "title":"German: Die Freundinnen",
+      "artist":"Gustav Klimt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0344",
+      "title":"Rosebushes under the Trees",
+      "artist":"Gustav Klimt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0345",
+      "title":"Beech Grove I",
+      "artist":"Gustav Klimt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0346",
+      "title":"Self-portrait",
+      "artist":"Hans Holbein the Younger",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0347",
+      "title":"Portrait of Erasmus",
+      "artist":"Hans Holbein the Younger",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0348",
+      "title":"Sir Thomas More",
+      "artist":"Hans Holbein the Younger",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0349",
+      "title":"The Artist's Family",
+      "artist":"Hans Holbein the Younger",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0350",
+      "title":"The Ambassadors",
+      "artist":"Hans Holbein the Younger",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0351",
+      "title":"Portrait of Henry VIII of England",
+      "artist":"Hans Holbein the Younger",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0352",
+      "title":"Edward VI as a Child",
+      "artist":"Hans Holbein the Younger",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0353",
+      "title":"Lais of Corinth",
+      "artist":"Hans Holbein the Younger",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0354",
+      "title":"Darmstädter Madonna",
+      "artist":"Hans Holbein the Younger",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0357",
+      "title":"German: Der Kaufmann Georg Gisze\nThe Merchant Georg Gisze",
+      "artist":"Hans Holbein the Younger",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0358",
+      "title":"Charles de Solier, Sieur de Morette",
+      "artist":"Hans Holbein the Younger",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0359",
+      "title":"Mrs Jane Small, formerly Mrs Pemberton",
+      "artist":"Hans Holbein the Younger",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0360",
+      "title":"Portrait of Bonifacius Amerbach",
+      "artist":"Hans Holbein the Younger",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0361",
+      "title":"The Body of the Dead Christ in the Tomb",
+      "artist":"Hans Holbein the Younger",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0362",
+      "title":"Portrait of a Lady with a Squirrel and a Starling, probably Anne Lovell",
+      "artist":"Hans Holbein the Younger",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0363",
+      "title":"Jane Seymour, Queen of England",
+      "artist":"Hans Holbein the Younger",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0364",
+      "title":"Christina of Denmark, Duchess of Milan, in mourning",
+      "artist":"Hans Holbein the Younger",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0365",
+      "title":"Henry Brandon, 2nd Duke of Suffolk (1535-51)",
+      "artist":"Hans Holbein the Younger",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0366",
+      "title":"Portrait of Henry VIII (1491-1547)",
+      "artist":"Hans Holbein the Younger",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0367",
+      "title":"Woman at the Tub from the Portfolio Elles (Femme au Tub )",
+      "artist":"Henri de Toulouse-Lautrec",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0368",
+      "title":"At the Moulin Rouge",
+      "artist":"Henri de Toulouse-Lautrec",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0369",
+      "title":"At the Moulin Rouge: The Dance",
+      "artist":"Henri de Toulouse-Lautrec",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0370",
+      "title":"Gabrielle",
+      "artist":"Henri de Toulouse-Lautrec",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0371",
+      "title":"Jane Avril Leaving the Moulin Rouge",
+      "artist":"Henri de Toulouse-Lautrec",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0372",
+      "title":"Marcelle Lender Dancing the Bolero in \"Chilpéric\"",
+      "artist":"Henri de Toulouse-Lautrec",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0373",
+      "title":"Le coucher (mme poupoule in chemise by her bed)",
+      "artist":"Henri de Toulouse-Lautrec",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0374",
+      "title":"Portrait of Suzanne Valadon",
+      "artist":"Henri de Toulouse-Lautrec",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0375",
+      "title":"Reine de Joie",
+      "artist":"Henri de Toulouse-Lautrec",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0376",
+      "title":"Divan Japonais",
+      "artist":"Henri de Toulouse-Lautrec",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0377",
+      "title":"Babylone d'Allemagne",
+      "artist":"Henri de Toulouse-Lautrec",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0378",
+      "title":"Triptych of the crucified Martyr",
+      "artist":"Hieronymus Bosch",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0379",
+      "title":"The Garden of Earthly Delights.",
+      "artist":"Hieronymus Bosch",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0382",
+      "title":"Christ Before Pilate",
+      "artist":"Hieronymus Bosch",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0383",
+      "title":"Japanese: 『神奈川沖浪裏』 - Kanagawa oki nami ura; The Great Wave off Kanagawa",
+      "artist":"Hokusai",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0384",
+      "title":"Fine Wind, Clear Morning (Gaifū kaisei)",
+      "artist":"Hokusai",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0385",
+      "title":"Courtesan asleep",
+      "artist":"Hokusai",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0386",
+      "title":"Scraps ancient and modern",
+      "artist":"J. M. W. Turner",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0387",
+      "title":"Modern Rome - Campo Vaccino",
+      "artist":"J. M. W. Turner",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0388",
+      "title":"Fishermen at Sea",
+      "artist":"J. M. W. Turner",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0389",
+      "title":"Dutch Boats in a Gale",
+      "artist":"J. M. W. Turner",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0390",
+      "title":"Raby Castle, the Seat of the Earl of Darlington",
+      "artist":"J. M. W. Turner",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0391",
+      "title":"Snow Storm: Steam-Boat off a Harbour's Mouth",
+      "artist":"J. M. W. Turner",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0392",
+      "title":"Rain, Steam and Speed - The Great Western Railway; the painting depicts an early locomotive of the Great Western Railway crossing the River Thames on Brunel's recently completed Maidenhead Railway Bridge.The painting is also credited for allowing a glimpse of the Romantic strife within Turner and his contemporaries over the issue of the technological advancement during the Industrial Revolution (see below).",
+      "artist":"J. M. W. Turner",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0393",
+      "title":"The Fighting Temeraire tugged to her last Berth to be broken up",
+      "artist":"J. M. W. Turner",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0394",
+      "title":"Shipwreck of the Minotaur",
+      "artist":"J. M. W. Turner",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0395",
+      "title":"Calais Pier",
+      "artist":"J. M. W. Turner",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0396",
+      "title":"Self-portrait",
+      "artist":"Jacques-Louis David",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0397",
+      "title":"Equestrian portrait of Stanisław Kostka Potocki",
+      "artist":"Jacques-Louis David",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0398",
+      "title":"Copy of the Oath of the Horatii - made by Girodet",
+      "artist":"Jacques-Louis David",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0399",
+      "title":"Le Serment du Jeu de paume",
+      "artist":"Jacques-Louis David",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0400",
+      "title":"Marat assassinated",
+      "artist":"Jacques-Louis David",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0402",
+      "title":"French: Les Sabines - L'Intervention des Sabines - Les Sabines arrêtant le combat entre les Romains et les Sabins\nThe Intervention of the Sabine Women",
+      "artist":"Jacques-Louis David",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0403",
+      "title":"The Emperor Napoleon in His Study at the Tuileries",
+      "artist":"Jacques-Louis David",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0404",
+      "title":"Napoleon Crossing the Alps",
+      "artist":"Jacques-Louis David",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0406",
+      "title":"French: Sacre de l'empereur Napoléon Ier et couronnement de l'impératrice Joséphine dans la cathédrale Notre-Dame de Paris, le 2 décembre 1804\nCoronation of Emperor Napoleon I and Coronation of the Empress Josephine in Notre-Dame de Paris, December 2, 1804",
+      "artist":"Jacques-Louis David",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0407",
+      "title":"The Sisters Zénaïde and Charlotte Bonaparte",
+      "artist":"Jacques-Louis David",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0408",
+      "title":"Self-portrait in Uffizi",
+      "artist":"Jacques-Louis David",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0409",
+      "title":"Portrait of Emmanuel Joseph Sieyès",
+      "artist":"Jacques-Louis David",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0410",
+      "title":"Antiochus   and  Stratonica",
+      "artist":"Jacques-Louis David",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0411",
+      "title":"Patroclus",
+      "artist":"Jacques-Louis David",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0412",
+      "title":"Paris and Helen",
+      "artist":"Jacques-Louis David",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0413",
+      "title":"Q3399477",
+      "artist":"Jacques-Louis David",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0414",
+      "title":"Portrait of Madame de Verninac",
+      "artist":"Jacques-Louis David",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0415",
+      "title":"Portrait of Madame Récamier",
+      "artist":"Jacques-Louis David",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0416",
+      "title":"Suzanne Le Peletier de Saint-Fargeau",
+      "artist":"Jacques-Louis David",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0417",
+      "title":"Portrait du pape Pie VII (Portrait of Pope Pius VII)",
+      "artist":"Jacques-Louis David",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0418",
+      "title":"Portrait of French politician and soldier Étienne Maurice Gérard",
+      "artist":"Jacques-Louis David",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0419",
+      "title":"Portrait of the Comte de Turenne",
+      "artist":"Jacques-Louis David",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0420",
+      "title":"Jupiter   and  Antiope",
+      "artist":"Jacques-Louis David",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0421",
+      "title":"Love and Psyche",
+      "artist":"Jacques-Louis David",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0422",
+      "title":"The Farewell of Telemachus and Eucharis",
+      "artist":"Jacques-Louis David",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0423",
+      "title":"The Anger of Achilles",
+      "artist":"Jacques-Louis David",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0424",
+      "title":"Self-portrait",
+      "artist":"Jacques-Louis David",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0425",
+      "title":"Arrangement in Gray: Portrait of the Painter.",
+      "artist":"James Abbott McNeill Whistler",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0426",
+      "title":"Portrait of Whistler with Hat",
+      "artist":"James Abbott McNeill Whistler",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0427",
+      "title":"Symphony in White, No. 1: The White Girl",
+      "artist":"James Abbott McNeill Whistler",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0428",
+      "title":"Whistler's Mother",
+      "artist":"James Abbott McNeill Whistler",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0430",
+      "title":"Nocturne in Black and Gold: The Falling Rocket",
+      "artist":"James Abbott McNeill Whistler",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0431",
+      "title":"Mother of Pearl and Silver: The Andalusian",
+      "artist":"James Abbott McNeill Whistler",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0433",
+      "title":"Symphony in White No. 2",
+      "artist":"James Abbott McNeill Whistler",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0434",
+      "title":"James Abbott McNeill Whistler",
+      "artist":"James Abbott McNeill Whistler",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0435",
+      "title":"Untitled, known in English as The Arnolfini Portrait, The Arnolfini Wedding, The Arnolfini Marriage, The Arnolfini Double Portrait, or Portrait of Giovanni Arnolfini and his Wife",
+      "artist":"Jan van Eyck",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0436",
+      "title":"Dutch: Het Lam Gods (open)\nThe Ghent Altarpiece Open",
+      "artist":"Jan van Eyck",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0437",
+      "title":"Portrait of Margaret van Eyck",
+      "artist":"Jan van Eyck",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0438",
+      "title":"Annunciation",
+      "artist":"Jan van Eyck",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0439",
+      "title":"Triptych of Mary and Child, St. Michael, and the Catherine",
+      "artist":"Jan van Eyck",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0440",
+      "title":"The Madonna in the Church",
+      "artist":"Jan van Eyck",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0442",
+      "title":"Man in a Blue Cap\nAlternative title(s):\nMan with Ring",
+      "artist":"Jan van Eyck",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0443",
+      "title":"Portrait of Jan de Leeuw",
+      "artist":"Jan van Eyck",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0444",
+      "title":"Portrait of Baudouin de Lannoy",
+      "artist":"Jan van Eyck",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0445",
+      "title":"Madonna with Canon Joris van der Paele",
+      "artist":"Jan van Eyck",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0448",
+      "title":"The Crucifixion; The Last Judgment, diptych",
+      "artist":"Jan van Eyck",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0450",
+      "title":"Self-portrait",
+      "artist":"Jan van Eyck",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0451",
+      "title":"The Procuress.",
+      "artist":"Jan Vermeer",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0453",
+      "title":"A View of Delft after the Explosion of 1654",
+      "artist":"Jan Vermeer",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0454",
+      "title":"View on Delft.",
+      "artist":"Jan Vermeer",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0455",
+      "title":"Dutch: Gezicht op huizen in Delft, bekend als 'Het straatje'\nView of Houses in Delft, known as 'The little Street'",
+      "artist":"Jan Vermeer",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0456",
+      "title":"Dutch: Het melkmeisje\nThe Milkmaid",
+      "artist":"Jan Vermeer",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0457",
+      "title":"A Lady and Two Gentlemen",
+      "artist":"Jan Vermeer",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0458",
+      "title":"Girl with a Pearl Earring",
+      "artist":"Jan Vermeer",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0459",
+      "title":"Lady at the Virginal with a Gentleman, 'The Music Lesson'",
+      "artist":"Jan Vermeer",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0460",
+      "title":"The Art of Painting",
+      "artist":"Jan Vermeer",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0461",
+      "title":"The Astronomer",
+      "artist":"Jan Vermeer",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0462",
+      "title":"Dutch: De Geograaf\nThe Geographer",
+      "artist":"Jan Vermeer",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0463",
+      "title":"A Lady Seated at a Virginal.[2]",
+      "artist":"Jan Vermeer",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0464",
+      "title":"Portrait of Antoine Watteau (1684-1721)",
+      "artist":"Jean-Antoine Watteau",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0465",
+      "title":"Pleasures of Love",
+      "artist":"Jean-Antoine Watteau",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0466",
+      "title":"The Feast of Love",
+      "artist":"Jean-Antoine Watteau",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0467",
+      "title":"Polish woman.",
+      "artist":"Jean-Antoine Watteau",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0468",
+      "title":"Pierrot Content",
+      "artist":"Jean-Antoine Watteau",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0469",
+      "title":"Gilles / Pierrot, dit autrefois Gilles",
+      "artist":"Jean-Antoine Watteau",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0470",
+      "title":"Nymphe de fontaine",
+      "artist":"Jean-Antoine Watteau",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0471",
+      "title":"The Dance",
+      "artist":"Jean-Antoine Watteau",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0472",
+      "title":"Fêtes vénitiennes",
+      "artist":"Jean-Antoine Watteau",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0473",
+      "title":"Swedish: Kärlekslektionen The Love Lesson",
+      "artist":"Jean-Antoine Watteau",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0474",
+      "title":"French: Les Plaisirs du bal",
+      "artist":"Jean-Antoine Watteau",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0475",
+      "title":"La Surprise",
+      "artist":"Jean-Antoine Watteau",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0476",
+      "title":"French: La Boudeuse\nLa Boudeuse (The Capricious Girl)",
+      "artist":"Jean-Antoine Watteau",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0477",
+      "title":"The Italian Comedians",
+      "artist":"Jean-Antoine Watteau",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0478",
+      "title":"L’Embarquement pour Cythère",
+      "artist":"Jean-Antoine Watteau",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0479",
+      "title":"Fete Champetre",
+      "artist":"Jean-Antoine Watteau",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0480",
+      "title":"L'Enseigne de Gersaint",
+      "artist":"Jean-Antoine Watteau",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0481",
+      "title":"Study of a Male Nude",
+      "artist":"Jean-Auguste-Dominique Ingres",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0482",
+      "title":"Achilles Receiving the Envoys of Agamemnon",
+      "artist":"Jean-Auguste-Dominique Ingres",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0483",
+      "title":"Oedipus and the Sphynx",
+      "artist":"Jean-Auguste-Dominique Ingres",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0484",
+      "title":"French: Tu Marcellus Eris",
+      "artist":"Jean-Auguste-Dominique Ingres",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0485",
+      "title":"French: La grande odalisque\nThe Grand Odalisque",
+      "artist":"Jean-Auguste-Dominique Ingres",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0486",
+      "title":"The Vow of Louis XIII",
+      "artist":"Jean-Auguste-Dominique Ingres",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0487",
+      "title":"French: Le Bain Turc\nThe Turkish bath",
+      "artist":"Jean-Auguste-Dominique Ingres",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0488",
+      "title":"French: Odalisque à l'esclave\nOdalisque with Slave",
+      "artist":"Jean-Auguste-Dominique Ingres",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0489",
+      "title":"Madame Riviere",
+      "artist":"Jean-Auguste-Dominique Ingres",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0490",
+      "title":"Marcotte d'Argenteuil",
+      "artist":"Jean-Auguste-Dominique Ingres",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0491",
+      "title":"Portrait of Monsieur Bertin",
+      "artist":"Jean-Auguste-Dominique Ingres",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0492",
+      "title":"Portrait of Comtesse d'Haussonville",
+      "artist":"Jean-Auguste-Dominique Ingres",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0493",
+      "title":"Academic study of a male torso.",
+      "artist":"Jean-Auguste-Dominique Ingres",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0494",
+      "title":"Autoportrait à vingt-quatre ans",
+      "artist":"Jean-Auguste-Dominique Ingres",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0495",
+      "title":"Portrait de Madame Duvaucey",
+      "artist":"Jean-Auguste-Dominique Ingres",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0497",
+      "title":"Portrait of Princesse Albert de Broglie, née Joséphine-Eléonore-Marie-Pauline de Galard de Brassac de Béarn",
+      "artist":"Jean-Auguste-Dominique Ingres",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0498",
+      "title":"French: Jeanne d’Arc au sacre du roi Charles VII, dans la cathédrale de Reims\nJoan of Arc at the Coronation of Charles VII",
+      "artist":"Jean-Auguste-Dominique Ingres",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0499",
+      "title":"Madame Paul-Sigisbert Moitessier, née Marie-Clotilde-Inès de Foucauld, Seated",
+      "artist":"Jean-Auguste-Dominique Ingres",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0500",
+      "title":"Self-portrait",
+      "artist":"Jean-Auguste-Dominique Ingres",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0501",
+      "title":"Mariana",
+      "artist":"John Everett Millais",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0502",
+      "title":"The Return of the Dove to the Ark",
+      "artist":"John Everett Millais",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0503",
+      "title":"Isabella",
+      "artist":"John Everett Millais",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0504",
+      "title":"The Proscribed Royalist",
+      "artist":"John Everett Millais",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0505",
+      "title":"The Blind Girl",
+      "artist":"John Everett Millais",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0506",
+      "title":"A Dream of the Past: Sir Isumbras at the Ford",
+      "artist":"John Everett Millais",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0507",
+      "title":"The Black Brunswicker",
+      "artist":"John Everett Millais",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0508",
+      "title":"Template:Title:Esther",
+      "artist":"John Everett Millais",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0509",
+      "title":"Vanessa",
+      "artist":"John Everett Millais",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0510",
+      "title":"The Boyhood of Raleigh",
+      "artist":"John Everett Millais",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0511",
+      "title":"Portrait of Effie Gray (1828-1897)",
+      "artist":"John Everett Millais",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0512",
+      "title":"The Princes in the Tower",
+      "artist":"John Everett Millais",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0513",
+      "title":"The North-West Passage / Die Überfahrt nach Nord-West / Le passage de nord-ouest",
+      "artist":"John Everett Millais",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0514",
+      "title":"Cherry Ripe",
+      "artist":"John Everett Millais",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0515",
+      "title":"John Newman",
+      "artist":"John Everett Millais",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0516",
+      "title":"Bubbles",
+      "artist":"John Everett Millais",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0517",
+      "title":"Self-portrait",
+      "artist":"John Everett Millais",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0518",
+      "title":"John Ruskin",
+      "artist":"John Everett Millais",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0519",
+      "title":"The Knight Errant",
+      "artist":"John Everett Millais",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0522",
+      "title":"The Adoration of the Magi",
+      "artist":"Leonardo da Vinci",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0524",
+      "title":"Madonna and Child",
+      "artist":"Leonardo da Vinci",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0525",
+      "title":"Saint John the Baptist",
+      "artist":"Leonardo da Vinci",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0526",
+      "title":"Virgin of the Rocks",
+      "artist":"Leonardo da Vinci",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0527",
+      "title":"The Last Supper",
+      "artist":"Leonardo da Vinci",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0528",
+      "title":"French: La Joconde\nMona Lisa",
+      "artist":"Leonardo da Vinci",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0529",
+      "title":"French: La Vierge, l'Enfant Jésus et sainte Anne\nThe Virgin and Child with St. Anne",
+      "artist":"Leonardo da Vinci",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0530",
+      "title":"French: François Ier reçoit les derniers soupirs de Léonard de Vinci\nFrancis I Receives the Last Breaths of Leonardo da Vinci",
+      "artist":"Leonardo da Vinci",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0531",
+      "title":"Salvator Mundi",
+      "artist":"Leonardo da Vinci",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0532",
+      "title":"Fountain",
+      "artist":"Marcel Duchamp",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0533",
+      "title":"The Boating Party",
+      "artist":"Mary Cassatt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0534",
+      "title":"Five O'Clock Tea",
+      "artist":"Mary Cassatt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0535",
+      "title":"Reading “Le Figaro”",
+      "artist":"Mary Cassatt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0536",
+      "title":"Mary Cassatt Self-Portrait",
+      "artist":"Mary Cassatt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0537",
+      "title":"The Child's Bath",
+      "artist":"Mary Cassatt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0538",
+      "title":"Mother and Child Before a Pool",
+      "artist":"Mary Cassatt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0539",
+      "title":"Under the Horse-Chestnut Tree",
+      "artist":"Mary Cassatt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0540",
+      "title":"Woman with a Pearl Necklace in a Loge",
+      "artist":"Mary Cassatt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0541",
+      "title":"Portrait of Madame Sisley",
+      "artist":"Mary Cassatt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0542",
+      "title":"In the Box",
+      "artist":"Mary Cassatt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0543",
+      "title":"Lydia Leaning on Her Arms (in a theatre box)",
+      "artist":"Mary Cassatt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0544",
+      "title":"Lilacs in a Window",
+      "artist":"Mary Cassatt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0545",
+      "title":"Children on the Beach",
+      "artist":"Mary Cassatt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0546",
+      "title":"Child in a Straw Hat",
+      "artist":"Mary Cassatt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0547",
+      "title":"Maternité",
+      "artist":"Mary Cassatt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0548",
+      "title":"Nurse Reading to a Little Girl",
+      "artist":"Mary Cassatt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0549",
+      "title":"Woman in a Red Bodice and Her Child",
+      "artist":"Mary Cassatt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0550",
+      "title":"Jules Being Dried by His Mother",
+      "artist":"Mary Cassatt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0551",
+      "title":"Young Woman in Green, Outdoors in the Sun",
+      "artist":"Mary Cassatt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0552",
+      "title":"Self-portrait",
+      "artist":"Mary Cassatt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0554",
+      "title":"Michelangelo",
+      "artist":"Michelangelo",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0555",
+      "title":"The Last Judgment",
+      "artist":"Michelangelo",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0556",
+      "title":"Italian: Tondo Doni\nDoni 'Tondo'",
+      "artist":"Michelangelo",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0557",
+      "title":"Sistine Chapel ceiling",
+      "artist":"Michelangelo",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0558",
+      "title":"The Drunkenness of Noah",
+      "artist":"Michelangelo",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0559",
+      "title":"The Creation of Adam",
+      "artist":"Michelangelo",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0560",
+      "title":"The Battle of Cascina",
+      "artist":"Michelangelo",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0561",
+      "title":"Crucifixion of Saint Peter",
+      "artist":"Michelangelo",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0563",
+      "title":"The Large Bathers",
+      "artist":"Paul Cezanne",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0564",
+      "title":"Jas de Bouffan",
+      "artist":"Paul Cezanne",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0565",
+      "title":"Mont Sainte-Victoire",
+      "artist":"Paul Cezanne",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0566",
+      "title":"Mont Sainte-Victoire and the Viaduct of the Arc River Valley",
+      "artist":"Paul Cezanne",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0567",
+      "title":"Houses in Provence: The Riaux Valley near L'Estaque",
+      "artist":"Paul Cezanne",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0568",
+      "title":"The Bay of Marseilles, Seen from L'Estaque",
+      "artist":"Paul Cezanne",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0569",
+      "title":"Chestnut Trees at Jas de Bouffan",
+      "artist":"Paul Cezanne",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0570",
+      "title":"French: Le Grand Baigneur\nThe Bather",
+      "artist":"Paul Cezanne",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0571",
+      "title":"Boy in a Red Waistcoat",
+      "artist":"Paul Cezanne",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0572",
+      "title":"Portrait of Madame Cézanne",
+      "artist":"Paul Cezanne",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0573",
+      "title":"The House with the Cracked Walls",
+      "artist":"Paul Cezanne",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0574",
+      "title":"Maison Maria with a View of Château Noir",
+      "artist":"Paul Cezanne",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0575",
+      "title":"Château Noir",
+      "artist":"Paul Cezanne",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0576",
+      "title":"Mont Sainte-Victoire and Château Noir",
+      "artist":"Paul Cezanne",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0577",
+      "title":"Still life with kettle",
+      "artist":"Paul Cezanne",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0578",
+      "title":"Self-portrait",
+      "artist":"Paul Cezanne",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0579",
+      "title":"Achille Emperaire",
+      "artist":"Paul Cezanne",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0580",
+      "title":"Self-portrait",
+      "artist":"Paul Cezanne",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0581",
+      "title":"Portrait of Victor Chocquet",
+      "artist":"Paul Cezanne",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0582",
+      "title":"Self-portrait",
+      "artist":"Paul Cezanne",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0583",
+      "title":"French: Le fils de l'artiste, Paul\nThe Artist's Son, Paul",
+      "artist":"Paul Cezanne",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0584",
+      "title":"Gustave Geffroy",
+      "artist":"Paul Cezanne",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0585",
+      "title":"Selbstporträt mit Barett",
+      "artist":"Paul Cezanne",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0586",
+      "title":"Woman with a Coffeepot",
+      "artist":"Paul Cezanne",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0594",
+      "title":"Four Breton Women",
+      "artist":"Paul Gauguin",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0595",
+      "title":"French: La bergère bretonne\nThe Breton shepherdess",
+      "artist":"Paul Gauguin",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0596",
+      "title":"French: Le Christ jaune\nThe Yellow Christ",
+      "artist":"Paul Gauguin",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0597",
+      "title":"French: Nature morte au profil de Laval\nStill Life with Profile of Laval",
+      "artist":"Paul Gauguin",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0602",
+      "title":"Portrait of Gauguin",
+      "artist":"Paul Gauguin",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0603",
+      "title":"French: Cavaliers sur la plage (I)",
+      "artist":"Paul Gauguin",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0604",
+      "title":"Tahitian: Vahine no te tiare\nWoman with a Flower",
+      "artist":"Paul Gauguin",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0605",
+      "title":"Tahitian: Te aa no areois\nThe Seed of the Areoi",
+      "artist":"Paul Gauguin",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0606",
+      "title":"Tahitian: Nave nave moe\nSacred Spring: Sweet Dreams",
+      "artist":"Paul Gauguin",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0607",
+      "title":"Tahitian: Aita parari te tamari vahine Judith\nAnnah the Javanese, or The Child-woman Judith Is Not Yet Breached",
+      "artist":"Paul Gauguin",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0608",
+      "title":"Nave Nave Fenua from the Noa Noa Series",
+      "artist":"Paul Gauguin",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0609",
+      "title":"Where Do We Come From? What Are We? Where Are We Going?",
+      "artist":"Paul Gauguin",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0611",
+      "title":"The Wizard of Hiva Oa",
+      "artist":"Paul Gauguin",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0613",
+      "title":"French: Cavaliers sur la plage (II)\nRiders on the Beach (II)",
+      "artist":"Paul Gauguin",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0615",
+      "title":"French: Nature morte aux oiseaux exotiques I\nStill-Life with Parrots",
+      "artist":"Paul Gauguin",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0616",
+      "title":"French: Jeune fille à l'éventail\nYoung Girl With Fan",
+      "artist":"Paul Gauguin",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0617",
+      "title":"Contes barbares",
+      "artist":"Paul Gauguin",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0618",
+      "title":"French: Maternité II\nMaternity II",
+      "artist":"Paul Gauguin",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0619",
+      "title":"French: Nous n'irons pas au marché aujourd'hui",
+      "artist":"Paul Gauguin",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0620",
+      "title":"Tahitian: PARAHI TE MARAE\nThe Sacred Mountain",
+      "artist":"Paul Gauguin",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0622",
+      "title":"Tahitian: Nafea Faaipoipo\nWhen Will You Marry?",
+      "artist":"Paul Gauguin",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0623",
+      "title":"French: Oranges et citrons avec vue sur Pont-Aven",
+      "artist":"Paul Gauguin",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0624",
+      "title":"French: Le gardien de porcs, Bretagne\nThe Swineherd",
+      "artist":"Paul Gauguin",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0625",
+      "title":"French: Les Alyscamps, ou Les Trois grâces au temple de Venus",
+      "artist":"Paul Gauguin",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0626",
+      "title":"French: La Vision après le Sermon (La Lutte de Jacob avec l’Ange)\nThe Vision After the Sermon (Jacob wrestling with the Angel)",
+      "artist":"Paul Gauguin",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0627",
+      "title":"French: Café de Nuit, Arles\nThe Night Cafe, Arles",
+      "artist":"Paul Gauguin",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0628",
+      "title":"French: Nature morte à l'estampe japonaise",
+      "artist":"Paul Gauguin",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0629",
+      "title":"French: Femmes de Tahiti, ou Sur la plage\nTahitian Women on the Beach",
+      "artist":"Paul Gauguin",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0630",
+      "title":"Delightful Land (Te Nave Nave Fenua)",
+      "artist":"Paul Gauguin",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0631",
+      "title":"Tahitian: Arii Matamoe\nThe Royal End",
+      "artist":"Paul Gauguin",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0632",
+      "title":"French: La Sieste\nThe Siesta",
+      "artist":"Paul Gauguin",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0633",
+      "title":"French: Femmes sur le bord de la mer, ou Maternité I\nWomen on the Seashore (Motherhood I)",
+      "artist":"Paul Gauguin",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0634",
+      "title":"French: Deux Tahitiennes",
+      "artist":"Paul Gauguin",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0644",
+      "title":"Portrait of the Artist",
+      "artist":"Peter Paul Rubens",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0645",
+      "title":"Portrait of a Young Scholar",
+      "artist":"Peter Paul Rubens",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0646",
+      "title":"The Fall of Phaeton",
+      "artist":"Peter Paul Rubens",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0647",
+      "title":"Self portrait with Isabella Brandt, his first wife, in the honeysuckle bower",
+      "artist":"Peter Paul Rubens",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0648",
+      "title":"Portrait of Anna of Austria, Queen of France (1601-1666)",
+      "artist":"Peter Paul Rubens",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0649",
+      "title":"Adam and Eve",
+      "artist":"Peter Paul Rubens",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0650",
+      "title":"Old woman and boy with candles",
+      "artist":"Peter Paul Rubens",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0651",
+      "title":"Infante Isabella Clara Eugenia (1566-1633)",
+      "artist":"Peter Paul Rubens",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0652",
+      "title":"Virgin in Adoration before the Christ Child",
+      "artist":"Peter Paul Rubens",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0653",
+      "title":"Diana Returning from Hunt",
+      "artist":"Peter Paul Rubens",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0654",
+      "title":"Daniel in the Lions' Den",
+      "artist":"Peter Paul Rubens",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0655",
+      "title":"Hippopotamus and Crocodile Hunt",
+      "artist":"Peter Paul Rubens",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0656",
+      "title":"The Rape of the Daughters of Leucippus",
+      "artist":"Peter Paul Rubens",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0657",
+      "title":"Marchesa Brigida Spinola Doria",
+      "artist":"Peter Paul Rubens",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0658",
+      "title":"Portrait of King Philip IV of Spain (1605-1665)",
+      "artist":"Peter Paul Rubens",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0659",
+      "title":"Portrait of Elisabeth of Bourbon (1602–1644)",
+      "artist":"Peter Paul Rubens",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0660",
+      "title":"Portrait of Ambrogio Spinola",
+      "artist":"Peter Paul Rubens",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0661",
+      "title":"A View of Het Steen in the Early Morning",
+      "artist":"Peter Paul Rubens",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0662",
+      "title":"Dutch: Het visioen van de heilige Hubertus\nMiracle of Saint Hubert",
+      "artist":"Peter Paul Rubens",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0663",
+      "title":"Landscape with the Ruins of Mount Palatine in Rome.",
+      "artist":"Peter Paul Rubens",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0664",
+      "title":"Nymphs filling the horn of plenty.",
+      "artist":"Peter Paul Rubens",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0665",
+      "title":"The Origin of the Milky Way",
+      "artist":"Peter Paul Rubens",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0666",
+      "title":"Venus and Adonis",
+      "artist":"Peter Paul Rubens",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0667",
+      "title":"Jupiter   and  Callisto",
+      "artist":"Peter Paul Rubens",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0668",
+      "title":"Immaculate Conception",
+      "artist":"Peter Paul Rubens",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0669",
+      "title":"The Holy Family with St Anne",
+      "artist":"Peter Paul Rubens",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0670",
+      "title":"Dutch: Susanna en de oudsten\nSusanna and the Elders",
+      "artist":"Peter Paul Rubens",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0671",
+      "title":"The champion of virtue (Mars) crowned by the goddess of victory",
+      "artist":"Peter Paul Rubens",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0672",
+      "title":"Cimone   and  Efigenia",
+      "artist":"Peter Paul Rubens",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0673",
+      "title":"Venus, Cupid, Bacchus   and  Ceres",
+      "artist":"Peter Paul Rubens",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0674",
+      "title":"Sine Baccho et Cenere friget Venus",
+      "artist":"Peter Paul Rubens",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0675",
+      "title":"The Three Graces",
+      "artist":"Peter Paul Rubens",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0676",
+      "title":"Rubens, His Wife Helena Fourment (1614–1673), and One of Their Children",
+      "artist":"Peter Paul Rubens",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0677",
+      "title":"Helena Fourment with a Carriage",
+      "artist":"Peter Paul Rubens",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0678",
+      "title":"Bathsheba at the Fountain",
+      "artist":"Peter Paul Rubens",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0679",
+      "title":"Venus, Mars and Cupid",
+      "artist":"Peter Paul Rubens",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0680",
+      "title":"Pastoral Scene",
+      "artist":"Peter Paul Rubens",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0682",
+      "title":"The Judgment of Paris",
+      "artist":"Peter Paul Rubens",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0683",
+      "title":"The fall of man (Genesis 3:4).",
+      "artist":"Peter Paul Rubens",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0684",
+      "title":"Portrait of George Villiers, 1st Duke of Buckingham (1592-1628)",
+      "artist":"Peter Paul Rubens",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0685",
+      "title":"The Swing",
+      "artist":"Pierre-Auguste Renoir",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0686",
+      "title":"Young Girls at the Piano",
+      "artist":"Pierre-Auguste Renoir",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0687",
+      "title":"French: Lise cousant\nLise Sewing",
+      "artist":"Pierre-Auguste Renoir",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0688",
+      "title":"German: Monet beim Malen in seinem Garten in Argenteuil",
+      "artist":"Pierre-Auguste Renoir",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0689",
+      "title":"Claude Monet",
+      "artist":"Pierre-Auguste Renoir",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0690",
+      "title":"A Girl with a Watering Can",
+      "artist":"Pierre-Auguste Renoir",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0691",
+      "title":"Mme. Charpentier and Her Children",
+      "artist":"Pierre-Auguste Renoir",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0692",
+      "title":"By the Water or Near the Lake",
+      "artist":"Pierre-Auguste Renoir",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0693",
+      "title":"Luncheon of the Boating Party",
+      "artist":"Pierre-Auguste Renoir",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0694",
+      "title":"Dance at Bougival",
+      "artist":"Pierre-Auguste Renoir",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0695",
+      "title":"Country Dance",
+      "artist":"Pierre-Auguste Renoir",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0696",
+      "title":"Children on the Beach of Guernesey",
+      "artist":"Pierre-Auguste Renoir",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0697",
+      "title":"French: Jeune garcon sur la plage d`Yport",
+      "artist":"Pierre-Auguste Renoir",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0698",
+      "title":"Julie Manet",
+      "artist":"Pierre-Auguste Renoir",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0699",
+      "title":"French: Gabrielle et Jean",
+      "artist":"Pierre-Auguste Renoir",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0700",
+      "title":"The Artist's Family",
+      "artist":"Pierre-Auguste Renoir",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0701",
+      "title":"Ambroise Vollard",
+      "artist":"Pierre-Auguste Renoir",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0702",
+      "title":"Portrait of Ambroise Vollard",
+      "artist":"Pierre-Auguste Renoir",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0704",
+      "title":"Autoportrait à trente-cinq ans, 1876",
+      "artist":"Pierre-Auguste Renoir",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0705",
+      "title":"Self-portrait",
+      "artist":"Pierre-Auguste Renoir",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0706",
+      "title":"Torse, effet de soleil",
+      "artist":"Pierre-Auguste Renoir",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0707",
+      "title":"Seating girl",
+      "artist":"Pierre-Auguste Renoir",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0708",
+      "title":"The Large Bathers",
+      "artist":"Pierre-Auguste Renoir",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0726",
+      "title":"Willow Grove: Impression of Light and Shadow",
+      "artist":"Piet Mondrian",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0727",
+      "title":"The Red Tree",
+      "artist":"Piet Mondrian",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0728",
+      "title":"Spring Sun (Lentezon): Castle Ruin Brederode",
+      "artist":"Piet Mondrian",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0729",
+      "title":"View from the Dunes with Beach and Piers, Domburg",
+      "artist":"Piet Mondrian",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0730",
+      "title":"Gray Tree",
+      "artist":"Piet Mondrian",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0731",
+      "title":"Tableau I",
+      "artist":"Piet Mondrian",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0732",
+      "title":"Composition No. 10",
+      "artist":"Piet Mondrian",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0733",
+      "title":"Victory Boogie Woogie",
+      "artist":"Piet Mondrian",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0734",
+      "title":"Self-portrait",
+      "artist":"Raphael",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0735",
+      "title":"Guidobaldo da Montefeltro",
+      "artist":"Raphael",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0736",
+      "title":"The Crucified Christ with the Virgin Mary, Saints and Angels (The Mond Crucifixion)",
+      "artist":"Raphael",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0737",
+      "title":"Coronation of the Virgin",
+      "artist":"Raphael",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0738",
+      "title":"The Marriage of the Virgin",
+      "artist":"Raphael",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0739",
+      "title":"The Madonna of the Pinks",
+      "artist":"Raphael",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0740",
+      "title":"Pala Ansidei",
+      "artist":"Raphael",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0741",
+      "title":"Madonna in the Meadow",
+      "artist":"Raphael",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0742",
+      "title":"St Catherine of Alexandria",
+      "artist":"Raphael",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0743",
+      "title":"The Deposition",
+      "artist":"Raphael",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0744",
+      "title":"The Miraculous Draft of Fishes",
+      "artist":"Raphael",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0745",
+      "title":"Lo Spasimo di Sicilia",
+      "artist":"Raphael",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0746",
+      "title":"Transfiguration",
+      "artist":"Raphael",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0747",
+      "title":"The Holy Family",
+      "artist":"Raphael",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0748",
+      "title":"Portrait of Elisabetta Gonzaga",
+      "artist":"Raphael",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0749",
+      "title":"Portrait of Pope Julius II",
+      "artist":"Raphael",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0750",
+      "title":"Portrait of Bindo Altoviti",
+      "artist":"Raphael",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0751",
+      "title":"Portrait of Baldassare Castiglione",
+      "artist":"Raphael",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0752",
+      "title":"The Massacre of the Innocents",
+      "artist":"Raphael",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0753",
+      "title":"The Judgment of Paris",
+      "artist":"Raphael",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0755",
+      "title":"The School of Athens\ndetail",
+      "artist":"Raphael",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0756",
+      "title":"Italian: Ritratto di giovane uomo\nPortrait of a Youth",
+      "artist":"Raphael",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0757",
+      "title":"Self-portrait",
+      "artist":"Raphael",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0758",
+      "title":"Self-portrait",
+      "artist":"Rembrandt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0759",
+      "title":"Rembrandt and Saskia in the parable of the Prodigal Son.",
+      "artist":"Rembrandt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0760",
+      "title":"Saskia van Uylenburgh, the Wife of the Artist",
+      "artist":"Rembrandt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0761",
+      "title":"Rembrandt’s Son Titus in a Monk’s Habit",
+      "artist":"Rembrandt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0762",
+      "title":"The Storm on the Sea of Galilee",
+      "artist":"Rembrandt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0763",
+      "title":"A Polish nobleman",
+      "artist":"Rembrandt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0764",
+      "title":"The abduction of Europa",
+      "artist":"Rembrandt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0765",
+      "title":"Portrait of Haesje Jacobsdr. van Cleyburg (....-1641)",
+      "artist":"Rembrandt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0766",
+      "title":"Self-portrait",
+      "artist":"Rembrandt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0769",
+      "title":"The Company of Frans Banning Cocq and Willem van Ruytenburgh, known as the ‘Night Watch’.",
+      "artist":"Rembrandt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0770",
+      "title":"The Polish Rider",
+      "artist":"Rembrandt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0771",
+      "title":"The Man with the Golden Helmet.",
+      "artist":"Rembrandt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0772",
+      "title":"Saskia van Uylenburgh in Arcadian Costume",
+      "artist":"Rembrandt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0773",
+      "title":"The Girl in a Picture Frame (The Jewish Bride).",
+      "artist":"Rembrandt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0774",
+      "title":"The evangelist Matthew and the angel",
+      "artist":"Rembrandt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0786",
+      "title":"The lapidation of Saint Stephen",
+      "artist":"Rembrandt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0787",
+      "title":"Jeremiah Lamenting the Destruction of Jerusalem",
+      "artist":"Rembrandt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0788",
+      "title":"Philosopher in meditation",
+      "artist":"Rembrandt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0789",
+      "title":"The Anatomy Lesson of Dr. Nicolaes Tulp",
+      "artist":"Rembrandt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0790",
+      "title":"Sacrifice of Isaac",
+      "artist":"Rembrandt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0791",
+      "title":"The Blinding of Samson",
+      "artist":"Rembrandt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0792",
+      "title":"Portrait of Saskia van Uylenburgh (1612-1642)",
+      "artist":"Rembrandt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0793",
+      "title":"Susanna and the Elders",
+      "artist":"Rembrandt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0794",
+      "title":"Belshazzar's Feast",
+      "artist":"Rembrandt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0795",
+      "title":"De engel Raphaël vertrekt van Tobias en zijn familie (Tobias 12:21-22).[1]",
+      "artist":"Rembrandt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0796",
+      "title":"Landscape with the Good Samaritan",
+      "artist":"Rembrandt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0797",
+      "title":"Joseph’s dream",
+      "artist":"Rembrandt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0798",
+      "title":"Susanna and the Elders",
+      "artist":"Rembrandt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0799",
+      "title":"The Mill",
+      "artist":"Rembrandt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0800",
+      "title":"Aristotle with a Bust of Homer",
+      "artist":"Rembrandt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0801",
+      "title":"Bathsheba with David&#146;s letter",
+      "artist":"Rembrandt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0802",
+      "title":"Portrait of Hendrickje Stoffels",
+      "artist":"Rembrandt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0803",
+      "title":"Portrait of a couple as figures from the Old Testament, known as ‘The Jewish bride’.",
+      "artist":"Rembrandt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0804",
+      "title":"Ahasuerus and Haman at the Feast of Esther",
+      "artist":"Rembrandt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0805",
+      "title":"St. Bartholomew",
+      "artist":"Rembrandt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0806",
+      "title":"The Syndics of the Amsterdam Drapers' Guild, known as the ‘Sampling Officials’.",
+      "artist":"Rembrandt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0807",
+      "title":"Jacob Blessing Ephraim and Manasseh",
+      "artist":"Rembrandt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0808",
+      "title":"The Return of the Prodigal Son",
+      "artist":"Rembrandt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0809",
+      "title":"Lucretia",
+      "artist":"Rembrandt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0814",
+      "title":"Self-portrait with Saskia.",
+      "artist":"Rembrandt",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0821",
+      "title":"Venus and Mars",
+      "artist":"Sandro Botticelli",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0822",
+      "title":"Virgin and Child with Young St John the Baptist",
+      "artist":"Sandro Botticelli",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0823",
+      "title":"Saint Sebastian",
+      "artist":"Sandro Botticelli",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0824",
+      "title":"Italian: Madonna col bambino e cantando angeli\nMary with the Child and singing Angels",
+      "artist":"Sandro Botticelli",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0825",
+      "title":"Primavera",
+      "artist":"Sandro Botticelli",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0826",
+      "title":"The Birth of Venus",
+      "artist":"Sandro Botticelli",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0827",
+      "title":"Madonna and Child with both Saints John\nAlternative title(s):\nBardi altarpiece",
+      "artist":"Sandro Botticelli",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0828",
+      "title":"Madonna enthroned with child, four angels, and saints",
+      "artist":"Sandro Botticelli",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0829",
+      "title":"Italian: Annunciazione\nAnnunciation",
+      "artist":"Sandro Botticelli",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0830",
+      "title":"Holy Trinity",
+      "artist":"Sandro Botticelli",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0831",
+      "title":"Italian: Madonna del Magnificat\nMadonna of the Magnificat",
+      "artist":"Sandro Botticelli",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0832",
+      "title":"Portrait of a Man with a Medal of Cosimo the Elder",
+      "artist":"Sandro Botticelli",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0833",
+      "title":"Portrait of a young Man",
+      "artist":"Sandro Botticelli",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0834",
+      "title":"Portrait of a Young Man Holding a Medallion",
+      "artist":"Sandro Botticelli",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0835",
+      "title":"La Bella Simonetta",
+      "artist":"Sandro Botticelli",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0836",
+      "title":"Portrait of Dante Alighieri",
+      "artist":"Sandro Botticelli",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0837",
+      "title":"Venus and the Three Graces offering presents to a young girl.",
+      "artist":"Sandro Botticelli",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0838",
+      "title":"Italian: Pallade e il centauro\nPallas and the Centaur",
+      "artist":"Sandro Botticelli",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0839",
+      "title":"Calumny of Apelles",
+      "artist":"Sandro Botticelli",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0840",
+      "title":"The Story of Lucretia",
+      "artist":"Sandro Botticelli",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0841",
+      "title":"Madonna of the Pomegranate (Madonna della Melagrana)",
+      "artist":"Sandro Botticelli",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0842",
+      "title":"The Virgin and Child (The Madonna of the Book)",
+      "artist":"Sandro Botticelli",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0843",
+      "title":"The Virgin Adoring the Sleeping Christ Child",
+      "artist":"Sandro Botticelli",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0844",
+      "title":"The Annunciation",
+      "artist":"Sandro Botticelli",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0845",
+      "title":"The Adoration of the Magi",
+      "artist":"Sandro Botticelli",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0846",
+      "title":"Self-Portrait",
+      "artist":"Titian",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0847",
+      "title":"Assumption of Mary",
+      "artist":"Titian",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0848",
+      "title":"Portrait of a Man (Portrait of Gerolamo (?) Barberigo)",
+      "artist":"Titian",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0849",
+      "title":"Portrait of a Man in a Red Cap",
+      "artist":"Titian",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0850",
+      "title":"Bacchus and Ariadne",
+      "artist":"Titian",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0851",
+      "title":"Portrait of Federico II Gonzaga.",
+      "artist":"Titian",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0852",
+      "title":"Equestrian Portrait of Charles V",
+      "artist":"Titian",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0853",
+      "title":"Venus and organist and little dog",
+      "artist":"Titian",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0854",
+      "title":"The Rape of Europa",
+      "artist":"Titian",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0855",
+      "title":"Pietà",
+      "artist":"Titian",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0856",
+      "title":"Allegory of Time Governed by Prudence",
+      "artist":"Titian",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0857",
+      "title":"Diana   and  Actaeon",
+      "artist":"Titian",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0858",
+      "title":"The Aldobrandini Madonna",
+      "artist":"Titian",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0859",
+      "title":"Portrait of Clarice de' Medici (1493-1528) as a child",
+      "artist":"Titian",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0860",
+      "title":"Pope Paul III with his Grandsons Alessandro and Ottavio Farnese",
+      "artist":"Titian",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0861",
+      "title":"Danaë",
+      "artist":"Titian",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0862",
+      "title":"Venus and Adonis",
+      "artist":"Titian",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0863",
+      "title":"The Death of Actaeon",
+      "artist":"Titian",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0864",
+      "title":"Diana and Callisto",
+      "artist":"Titian",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0865",
+      "title":"Tarquinius   and  Lucretia",
+      "artist":"Titian",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0866",
+      "title":"The Burial of Christ",
+      "artist":"Titian",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0867",
+      "title":"Self-Portrait",
+      "artist":"Vincent van Gogh",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0868",
+      "title":"Sunflowers",
+      "artist":"Vincent van Gogh",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0869",
+      "title":"Wheatfield with crows",
+      "artist":"Vincent van Gogh",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0871",
+      "title":"Dutch: De Aardappeleters\nThe Potato Eaters",
+      "artist":"Vincent van Gogh",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0872",
+      "title":"Head of a skeleton with a burning cigarette",
+      "artist":"Vincent van Gogh",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0874",
+      "title":"Windmills on Montmartre",
+      "artist":"Vincent van Gogh",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0875",
+      "title":"The Courtesan (after Eisen)",
+      "artist":"Vincent van Gogh",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0876",
+      "title":"Dutch: Bloeiende pruimenboomgaard: naar Hiroshige\nFlowering plum tree (after Hiroshige)",
+      "artist":"Vincent van Gogh",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0877",
+      "title":"The yellow house ('The street')",
+      "artist":"Vincent van Gogh",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0878",
+      "title":"French: La Chambre à Coucher[1]\nThe Bedroom",
+      "artist":"Vincent van Gogh",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0879",
+      "title":"French: Van Gogh peignant des tournesols\nVan Gogh Painting Sunflowers",
+      "artist":"Vincent van Gogh",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0880",
+      "title":"The Red Vineyard",
+      "artist":"Vincent van Gogh",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0881",
+      "title":"Dutch: De stoel van Gauguin\nGauguin's chair",
+      "artist":"Vincent van Gogh",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0882",
+      "title":"Self-Portrait with Bandaged Ear",
+      "artist":"Vincent van Gogh",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0883",
+      "title":"Dormitory in the Hospital in Arles",
+      "artist":"Vincent van Gogh",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0884",
+      "title":"The Starry Night",
+      "artist":"Vincent van Gogh",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0885",
+      "title":"Dutch: De zaaier\nThe Sower (Sower at Sunset)",
+      "artist":"Vincent van Gogh",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0886",
+      "title":"Sorrowing old man (\"At Eternity's Gate\")",
+      "artist":"Vincent van Gogh",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0887",
+      "title":"White House at Night",
+      "artist":"Vincent van Gogh",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0888",
+      "title":"French: L'église d'Auvers-sur-Oise, vue du chevet\nThe church in Auvers-sur-Oise, view from the Chevet",
+      "artist":"Vincent van Gogh",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0889",
+      "title":"Starry Night",
+      "artist":"Vincent van Gogh",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0890",
+      "title":"Eugène Boch",
+      "artist":"Vincent van Gogh",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0891",
+      "title":"Postman Joseph Roulin",
+      "artist":"Vincent van Gogh",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0892",
+      "title":"Self-portrait",
+      "artist":"Vincent van Gogh",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0893",
+      "title":"Self-portrait with grey felt hat",
+      "artist":"Vincent van Gogh",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0894",
+      "title":"French: Autoportrait au chapeau de paille\nSelf-Portrait with Straw Hat",
+      "artist":"Vincent van Gogh",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0895",
+      "title":"Self-portrait",
+      "artist":"Vincent van Gogh",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0896",
+      "title":"Self-portrait",
+      "artist":"Vincent van Gogh",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0897",
+      "title":"Irises",
+      "artist":"Vincent van Gogh",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0898",
+      "title":"Almond blossom",
+      "artist":"Vincent van Gogh",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0899",
+      "title":"Irises",
+      "artist":"Vincent van Gogh",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0900",
+      "title":"Roses",
+      "artist":"Vincent van Gogh",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0901",
+      "title":"Saint-Rémy - Road with Cypress and Star",
+      "artist":"Vincent van Gogh",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0903",
+      "title":"Wheat Field with Cypresses",
+      "artist":"Vincent van Gogh",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0904",
+      "title":"Cypresses",
+      "artist":"Vincent van Gogh",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0905",
+      "title":"Peach Tree in Blossom / Flowering Peach Tree",
+      "artist":"Vincent van Gogh",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0906",
+      "title":"Dutch: De roze boomgaard\nThe Pink Orchard also Orchard with Blooming Apricot Trees",
+      "artist":"Vincent van Gogh",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0907",
+      "title":"View of Arles, flowering orchards",
+      "artist":"Vincent van Gogh",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0908",
+      "title":"Wheatfield under thunderclouds",
+      "artist":"Vincent van Gogh",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0909",
+      "title":"Wheat Field in Rain",
+      "artist":"Vincent van Gogh",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0910",
+      "title":"Landscape with wheat sheaves and rising moon",
+      "artist":"Vincent van Gogh",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0911",
+      "title":"House at Auvers",
+      "artist":"Vincent van Gogh",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0912",
+      "title":"Der Blaue Reiter (The Blue Rider)",
+      "artist":"Wassily Kandinsky",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0913",
+      "title":"München-Schwabing mit der Kirche St. Ursula",
+      "artist":"Wassily Kandinsky",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0915",
+      "title":"Akhtyrka, Autumn",
+      "artist":"Wassily Kandinsky",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0916",
+      "title":"Rotterdam Sun",
+      "artist":"Wassily Kandinsky",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0917",
+      "title":"Murnau, Dorfstrasse (A Village Street)",
+      "artist":"Wassily Kandinsky",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0918",
+      "title":"Houses in Munich",
+      "artist":"Wassily Kandinsky",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0919",
+      "title":"Murnau View With Railway and Castle",
+      "artist":"Wassily Kandinsky",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0920",
+      "title":"Landscape with Factory Chimney",
+      "artist":"Wassily Kandinsky",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0921",
+      "title":"The Cow",
+      "artist":"Wassily Kandinsky",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0922",
+      "title":"Study for Improvisation V",
+      "artist":"Wassily Kandinsky",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0923",
+      "title":"The Rider (Lyrical)",
+      "artist":"Wassily Kandinsky",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0924",
+      "title":"Color Study – Squares with Concentric Circles",
+      "artist":"Wassily Kandinsky",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0925",
+      "title":"Composition VI",
+      "artist":"Wassily Kandinsky",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0926",
+      "title":"Tableau à la tache rouge (Bild mit rotem Fleck)",
+      "artist":"Wassily Kandinsky",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0927",
+      "title":"In Grey",
+      "artist":"Wassily Kandinsky",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0928",
+      "title":"Small Worlds I",
+      "artist":"Wassily Kandinsky",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0929",
+      "title":"Circles in a Circle",
+      "artist":"Wassily Kandinsky",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0930",
+      "title":"On White II",
+      "artist":"Wassily Kandinsky",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0931",
+      "title":"Several Circles",
+      "artist":"Wassily Kandinsky",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0932",
+      "title":"Brown with Supplement",
+      "artist":"Wassily Kandinsky",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0933",
+      "title":"Composition 9",
+      "artist":"Wassily Kandinsky",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0934",
+      "title":"Composition X",
+      "artist":"Wassily Kandinsky",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0935",
+      "title":"Composition VI",
+      "artist":"Wassily Kandinsky",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0936",
+      "title":"Points",
+      "artist":"Wassily Kandinsky",
+      "level":"hard"
+   },
+   {
+      "img_id":"img0937",
+      "title":"Portrait of Wen Zhengming",
+      "artist":"Wen Zhengming",
+      "level":"hard"
+   }
+]

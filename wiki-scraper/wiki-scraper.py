@@ -2,15 +2,28 @@ from bs4 import BeautifulSoup
 import requests
 import re
 import os
+import json
  
+
 artworks_list = []
+deleted_imgs = []
 counter = 1
 
 def main():
+    global artworks_list
+    with open("deleted_imgs.txt") as in_file:
+        for line in in_file:
+            img = line.strip("\n")
+            deleted_imgs.append(img)
+
     with open("artist-list.txt") as in_file:
         for line in in_file:
             artist = line.strip("\n")
             get_artworks(artist)
+    artworks = remove_deleted_images(artworks_list)
+    export_artworks_as_json(artworks)
+
+    
 
 def get_artworks(artist):
     global counter
@@ -35,11 +48,29 @@ def get_artworks(artist):
                 artwork_dict["img_id"] = img_id
                 artwork_dict["title"] = title
                 artwork_dict["artist"] = artist
-                artwork_dict["is_easy"] = False
+                artwork_dict["level"] = "hard"
                 artworks_list.append(artwork_dict)
+                print(img_id + " added to artworks_list")
                 counter += 1
-                download_img(img_id, src)
-                
+                #download_img(img_id, src)
+
+def export_artworks_as_json(a):
+    artwork_json = json.dumps(a, ensure_ascii=False).encode('utf8')
+    outfile = open('artworks.json', 'wb+')
+    outfile.write(artwork_json)
+    print("SUCCESS")
+    outfile.close
+
+def remove_deleted_images(a):
+    global artworks_list
+    artworks = []
+    for img in a: 
+        img_id = img['img_id']
+        if img_id not in deleted_imgs:
+            artworks.append(img)
+    return artworks
+
+
 # get title of image from wikipedia
 def get_img_title(href):
     r = requests.get('https://en.wikipedia.org' + href)
@@ -52,7 +83,7 @@ def get_img_title(href):
 # downloads image from url and stores in artworks folder 
 def download_img(img_id, url):
     img_data = requests.get('http://' + url).content
-    img_path = './artworks/' + img_id + '.jpg'
+    img_path = './artworks2/' + img_id + '.jpg'
     with open(img_path, 'wb+') as handler:
         handler.write(img_data)
     print(img_id + " successfully downloaded")
